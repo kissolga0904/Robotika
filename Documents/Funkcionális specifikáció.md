@@ -1,8 +1,8 @@
 
 # Funkcionális Specifikáció 
-## 1.) Áttekintés
-Egy olyan robotikai projekten dolgozunk ami használni fog egy színéérzékelő, egy touch szenzort valamint egy kijelzőt és egy potmétert. A program lényege, hogy egy random szót kiiratunk a kijelzőn, amit majd a felhasználónak vagy el kell mutogatnia vagy le kell rajzolnia vagy körbe kell írnia a bizonyos szót. A feladat teljesítését egy másik fél fogja ellenőrizni, akinek a kezébe lesz egy piros és egy zöld lap. Ha úgy ítéli meg hogy rosszul teljesítette a feladatot akkor a piros kártyát a színérzékelő szenzor elé mutatja, ha viszont jó volt a megoldás akkor a zöldet. Egy idő intervallum is lesz ami alatt kell teljesíteni a feladatot.
-## 2.) Jelenlegi helyzet
+## 1.) Vágyállomrendszer leírása
+Ez egy activity projekt, távirányítóval kezelhető, gombnyomásra sorsol egy szót  egy másik gombbal megkapjuk, hogy milyen körülírást kell végezni és elindul egy timer. Ha a timer lejár akkor "Lejárt az idő" felirat jelenik meg, hogyha kitalálják a szót, akkor meg kell nyomni egy gombot, melynek hatására "Gratulálunk" feliratot látunk. A nehézség egy-egy szó sorsolása előtt beállítható. Könnyű (30msp timer) közepes (20msp) nehéz (10msp). Színérzékelővel történik a nehezsegi szint beallitas (zöld-kék-piros). Touch szenzorral lépünk ki.
+## 2.) Igényelt alkatrészek 
 
 ## 3.) Követelménylista
   
@@ -15,7 +15,7 @@ Egy olyan robotikai projekten dolgozunk ami használni fog egy színéérzékel�
 
 ## 5.) Igényelt üzleti folyamatok
 
-## 6.) Használati esetek
+## 6.) Használati esetek(működés)
 
 ## 7.) Megfeleltetés, hogyan fedik le a használati esetek a követelményeket
 
