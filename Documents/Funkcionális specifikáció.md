@@ -16,28 +16,10 @@ Ez egy activity projekt, távirányítóval kezelhető, gombnyomásra sorsol egy
  - Breadboard
  - Ellenállás
 
-## 3.) Követelménylista
-  
-## 4.) Jelenlegi üzleti folyamatok modellje
+## 3.) Felhasznált eszközök
+- 2x16 karakteres kijelző
+- Nyomógomb
+- Színérzékelő szenzor
+- Touch szenzor
+## 4.) Állapot átmenet gráf
 
-Üzleti szereplők: 	
-
-Üzleti munkatárs: 
-
-
-## 5.) Igényelt üzleti folyamatok
-
-## 6.) Használati esetek(működés)
-
-## 7.) Megfeleltetés, hogyan fedik le a használati esetek a követelményeket
-
-## 8.) Képernyőtervek
-
-## 9.) Funkció-követelmény megfeleltetés
-### Funkcionális követelmények:
-
-### Nem Funkcionális követelmények:
-
-## 10.) Forgatókönyv
-
-## 11.) Fogalomszótár
