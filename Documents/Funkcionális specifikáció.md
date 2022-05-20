@@ -23,3 +23,4 @@ Ez egy activity projekt, távirányítóval kezelhető, gombnyomásra sorsol egy
 - Touch szenzor
 ## 4.) Állapot átmenet gráf
 
+![allapotatmenetgraf](https://user-images.githubusercontent.com/83598512/169541355-1fc6717c-7b6b-4592-b438-455d5fa442c8.png)
