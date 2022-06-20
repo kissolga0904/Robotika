@@ -6,13 +6,12 @@ Ez egy activity projekt, távirányítóval kezelhető, gombnyomásra sorsol egy
 ## 2.) Igényelt alkatrészek 
 ### 2.1 Kell:
 - Nyomógomb - 1db
-- Potméter - 1db
 - Színérzékelő szenzor - 1db
 - Touch szenzor - 1db
 - Kijelző - 1db
 ### 2.2 Elhanyagolható alkatrészek (az egyetemen beszerezhető alkatrészek)
  - Jumper kábelek
- - Aurdino micro
+ - Aurdino Uno
  - Breadboard
  - Ellenállás
 
@@ -21,6 +20,7 @@ Ez egy activity projekt, távirányítóval kezelhető, gombnyomásra sorsol egy
 - Nyomógomb
 - Színérzékelő szenzor
 - Touch szenzor
+- Aurdino Uno
 ## 4.) Állapot átmenet gráf
 
 ![allapotatmenetgraf](https://user-images.githubusercontent.com/83598512/169541355-1fc6717c-7b6b-4592-b438-455d5fa442c8.png)
